@@ -4,4 +4,4 @@ VRM モデルがスライドを読み上げしてくれるってやつです
 
 ### 参考
 
-ChatVRM（https://github.com/pixiv/ChatVRM）をベースに使用させていただいています．
+ChatVRM（ https://github.com/pixiv/ChatVRM ）をベースに使用させていただいています．
